@@ -5,19 +5,19 @@
       "name": "InterestCollection",
       "contents": [
         {
-          "name": "Software Engineering",
-          "description": "Techniques for development of high quality systems"
+          "name": "Heavy Metal",
+          "description": ""
         },
         {
-          "name": "Algorithms",
-          "description": "A set of rules to be followed in computation"
+          "name": "J Pop",
+          "description": ""
         },
         {
-          "name": "Mobile Networks",
-          "description": "Networks created using mobile devices."
+          "name": "K Pop",
+          "description": ""
         },
         {
-          "name": "Sailing",
+          "name": "Blues",
           "description": ""
         },
         {
@@ -25,15 +25,15 @@
           "description": ""
         },
         {
-          "name": "Imu Cooking",
-          "description": "Hawaiian practice of cooking in a pit."
+          "name": "Folk Music",
+          "description": ""
         },
         {
           "name": "EDM",
           "description": ""
         },
         {
-          "name": "Photography",
+          "name": "Country",
           "description": ""
         },
         {
@@ -49,35 +49,35 @@
           "description": ""
         },
         {
-          "name": "Accreditation",
+          "name": "60s",
           "description": ""
         },
         {
-          "name": "Paddling",
+          "name": "80s",
           "description": ""
         },
         {
-          "name": "Crossfit",
+          "name": "Jazz",
           "description": ""
         },
         {
-          "name": "Cybersecurity",
+          "name": "Reggae",
           "description": ""
         },
         {
-          "name": "Surfing",
+          "name": "Hawaiian",
           "description": ""
         },
         {
-          "name": "Computer Vision",
+          "name": "Classical",
           "description": ""
         },
         {
-          "name": "Martial Arts",
+          "name": "Hispanic",
           "description": ""
         },
         {
-          "name": "Evolutionary Computation",
+          "name": "African",
           "description": ""
         }
       ]
@@ -89,10 +89,11 @@
           "firstName": "Lee",
           "lastName": "Altenberg",
           "username": "altenber",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii. I may be old but my music tastes are gold. You can find me at the concerts and clubs late at night rocking to all my favorite bands. Never too old for to Rock n Roll!!!",
           "interests": [
-            "Evolutionary Computation",
-            "R&B"
+            "Rock",
+            "R&B",
+            "Pop"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
           "picture": "/images/altenberg.jpg"
@@ -101,9 +102,10 @@
           "firstName": "Kyungim",
           "lastName": "Baek",
           "username": "baek",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii. Don't let my looks fool you, I'm the biggest metal head you will every meet. When I'm not teaching you can find me in my office practicing my gloving for the raves. My gloving stage name is Kyun Baek Again.",
           "interests": [
-            "Pop"
+            "Heavy Metal",
+            "EDM"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
           "picture": "/images/baek.jpg"
@@ -112,10 +114,11 @@
           "firstName": "Edo",
           "lastName": "Biagioni",
           "username": "esb",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii. When I'm not teaching my students you can find me in the studio trying to spit out some lit lyrics. Buy my hot fire mixtapes at the Campus Center bookstore.",
           "interests": [
-            "Mobile Networks",
-            "Rock"
+            "Pop",
+            "R&B",
+            "Rap"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
           "picture": "/images/biagioni.jpg"
@@ -124,10 +127,12 @@
           "firstName": "Kim",
           "lastName": "Binsted",
           "username": "binsted",
-          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "I am an Associate Professor of Information and Computer Sciences at the University of Hawaii. When I'm not teaching my students you can find me with the locals smoking some dank stuff listening to Bob Marley and Anuhea. Sometimes you can find me in my office practicing my African and Hispanic singing.",
           "interests": [
-            "Rap",
-            "Imu Cooking"
+            "Reggae",
+            "Hispanic",
+            "Hawaiian",
+            "African"
           ],
           "title": "Associate Professor, Information and Computer Sciences",
           "picture": "/images/binsted.jpg"
@@ -137,10 +142,12 @@
           "lastName": "Casanova",
           "username": "henric",
           "github": "henricasanova",
-          "bio": "I am a Professor of Information and Computer Sciences at the University of Hawaii.",
+          "bio": "I am a Professor of Information and Computer Sciences at the University of Hawaii. Sometimes I like to visit operas and the music department to listen to some nice quality music. I can't stand people who listen to heavy metal and rock.",
           "interests": [
-            "EDM",
-            "Photography"
+            "Jazz",
+            "Classical",
+            "60s",
+            "80s"
           ],
           "title": "Professor, Information and Computer Sciences",
           "picture": "/images/casanova.jpg"
